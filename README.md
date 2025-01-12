@@ -1,1 +1,15 @@
 # REPORT_GEN
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : GORU SIVARAMAKRISHNA
+
+**INTERN ID** : CT6WDS2692
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 5th,2024 to JANUARY 20th,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot (6)](https://github.com/user-attachments/assets/5f175f63-fdc3-4e1c-8351-cd900f0c197c)
